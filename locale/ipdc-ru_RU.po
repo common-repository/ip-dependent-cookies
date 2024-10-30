@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IP Dependent Cookies\n"
+"POT-Creation-Date: 2013-10-22 22:07+0100\n"
+"PO-Revision-Date: 2013-10-22 22:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: Artprima\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: Russian\n"
+"X-Poedit-SearchPath-0: D:\\Work\\coding\\projects\\wp-plug-dev\\wp-content"
+"\\plugins\\ip-dependent-cookies\n"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:46
+msgid ""
+"To start using <strong>IP Dependent Cookies</strong> you need to enable the "
+"plugin in its settings!"
+msgstr ""
+"Чтобы начать использовать <strong>IP Dependent Cookies</strong>, вам нужно "
+"активировать плагин в его настройках!"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:47
+msgid "Go to configuration"
+msgstr "Перейти к его конфигурации."
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:57
+msgid "Settings"
+msgstr "Настройки"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:66
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:67
+msgid "IP Dependent Cookies"
+msgstr ""
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:73
+msgid "Cheatin&#8217; uh?"
+msgstr "Жульничаем, ы?"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:76
+#, php-format
+msgid ""
+"IP Dependent Cookies settings updated. Please <a href=\"%s\">log in</a> "
+"again."
+msgstr ""
+"Настройки IP Dependent Cookies обновлены. Пожалуйста, <a href=\"%s"
+"\">залогиньтесь</a> снова."
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:79
+msgid ""
+"Security Check - If you receive this in error, log out and back in to "
+"WordPress"
+msgstr ""
+"Проверка безопасности - Если вы получили эту ошибку, разлогиньтесь и снова "
+"зайдите в WordPress"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:92
+msgid "IP Dependent Cookies Options"
+msgstr "Настройки IP Dependent Cookies"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:93
+msgid ""
+"<strong>NB</strong>: After changing any of these options you will be forced "
+"to log in to WordPress again!"
+msgstr ""
+"<strong>ВНИМАНИЕ</strong>: После изменения любой из этих настроек, вам "
+"потребуется снова залогиниться в WordPress!"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:94
+msgid "Click on the option titles to get help!"
+msgstr "Кликните на заголовке опции, чтобы получить помощь!"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:101
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:118
+msgid "Click for Help!"
+msgstr "Кликните, чтобы включить подсказки!"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:101
+msgid "Plugin Status:"
+msgstr "Статус плагина:"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:105
+msgid "Enabled"
+msgstr "Активирован"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:108
+msgid "Disabled"
+msgstr "Отключен"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:112
+msgid "IP Dependent Cookies must be enabled for use."
+msgstr ""
+"Эта опция должна быть включена, чтобы использовать IP Dependent Cookies."
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:119
+msgid "HTTP_X_FORWARDED_FOR in place of REMOTE_ADDR:"
+msgstr "HTTP_X_FORWARDED_FOR вместо REMOTE_ADDR:"
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:125
+msgid "Turn on this option if your http-server is behind frontend server."
+msgstr "Включите, если ваш http-server находится за frontend-сервером."
+
+#: D:\Work\coding\projects\wp-plug-dev\wp-content\plugins\ip-dependent-cookies/ip-dependent-cookies.class.php:135
+msgid "Update Options »"
+msgstr "Обновить настройки »"
